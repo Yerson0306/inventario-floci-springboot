@@ -23,5 +23,5 @@ Tras revisar la documentación de Floci (`https://floci.io/`), los servicios emu
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
-cd TU_REPOSITORIO
+git clone [https://github.com/Yerson0306/inventario-floci-springboot.git](https://github.com/Yerson0306/inventario-floci-springboot.git)
+cd inventario-floci-springboot
